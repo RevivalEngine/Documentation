@@ -82,6 +82,7 @@ module.exports = {
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
+      additionalLanguages: ['lua'],
     },
   },
   presets: [
