@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://revivalengine.github.io/Documentation/blog</id>
+    <id>https://revivalengine.github.io/blog</id>
     <title>RevivalEngine Docs Blog</title>
     <updated>2021-01-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://revivalengine.github.io/Documentation/blog"/>
+    <link rel="alternate" href="https://revivalengine.github.io/blog"/>
     <subtitle>RevivalEngine Docs Blog</subtitle>
-    <icon>https://revivalengine.github.io/Documentation/img/logo_JFA_icon.ico</icon>
+    <icon>https://revivalengine.github.io/img/logo_JFA_icon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Changelog December, 2020]]></title>
         <id>changelog-2020-12</id>
-        <link href="https://revivalengine.github.io/Documentation/blog/changelog-2020-12"/>
+        <link href="https://revivalengine.github.io/blog/changelog-2020-12"/>
         <updated>2021-01-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From the archives I was summoned to bring thee.... this ancient changelog.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Changelog August, 2020]]></title>
         <id>changelog-2020-08</id>
-        <link href="https://revivalengine.github.io/Documentation/blog/changelog-2020-08"/>
+        <link href="https://revivalengine.github.io/blog/changelog-2020-08"/>
         <updated>2020-09-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From the archives I was summoned to bring thee.... this ancient changelog.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Changelog July, 2020]]></title>
         <id>changelog-2020-07</id>
-        <link href="https://revivalengine.github.io/Documentation/blog/changelog-2020-07"/>
+        <link href="https://revivalengine.github.io/blog/changelog-2020-07"/>
         <updated>2020-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From the archives I was summoned to bring thee.... this ancient changelog.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Changelog June, 2020]]></title>
         <id>changelog-2020-06</id>
-        <link href="https://revivalengine.github.io/Documentation/blog/changelog-2020-06"/>
+        <link href="https://revivalengine.github.io/blog/changelog-2020-06"/>
         <updated>2020-07-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From the archives I was summoned to bring thee.... this ancient changelog.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Changelog May, 2020]]></title>
         <id>changelog-2020-05</id>
-        <link href="https://revivalengine.github.io/Documentation/blog/changelog-2020-05"/>
+        <link href="https://revivalengine.github.io/blog/changelog-2020-05"/>
         <updated>2020-06-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From the archives I was summoned to bring thee.... this ancient changelog.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Changelog April, 2020]]></title>
         <id>changelog-2020-04</id>
-        <link href="https://revivalengine.github.io/Documentation/blog/changelog-2020-04"/>
+        <link href="https://revivalengine.github.io/blog/changelog-2020-04"/>
         <updated>2020-05-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From the archives I was summoned to bring thee.... this ancient changelog.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Changelog March, 2020]]></title>
         <id>changelog-2020-03</id>
-        <link href="https://revivalengine.github.io/Documentation/blog/changelog-2020-03"/>
+        <link href="https://revivalengine.github.io/blog/changelog-2020-03"/>
         <updated>2020-04-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From the archives I was summoned to bring thee.... this ancient changelog.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Changelog February, 2020]]></title>
         <id>changelog-2020-02</id>
-        <link href="https://revivalengine.github.io/Documentation/blog/changelog-2020-02"/>
+        <link href="https://revivalengine.github.io/blog/changelog-2020-02"/>
         <updated>2020-03-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From the archives I was summoned to bring thee.... this ancient changelog.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Changelog January, 2020]]></title>
         <id>changelog-2020-01</id>
-        <link href="https://revivalengine.github.io/Documentation/blog/changelog-2020-01"/>
+        <link href="https://revivalengine.github.io/blog/changelog-2020-01"/>
         <updated>2020-02-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From the archives I was summoned to bring thee.... this ancient changelog.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Changelog December, 2019]]></title>
         <id>changelog-2019-12</id>
-        <link href="https://revivalengine.github.io/Documentation/blog/changelog-2019-12"/>
+        <link href="https://revivalengine.github.io/blog/changelog-2019-12"/>
         <updated>2020-01-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[From the archives I was summoned to bring thee.... this ancient changelog.]]></summary>
     </entry>
