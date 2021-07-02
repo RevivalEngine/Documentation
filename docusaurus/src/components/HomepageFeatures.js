@@ -4,42 +4,67 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Tap into the Power of the Web',
+    imgSrc: "/img/web-technologies.png",
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Our engine is deeply rooted in the world's largest software ecosystem. Gain access to the best tools available, while letting us handle the complexity of modern web technologies.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Work on the Fun Stuff',
+    imgSrc: "/img/happy-emote.png",
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We give you the tools to succeed, without taking away flexibility. Don't waste your time writing boring boilerplate code, and build on a solid foundation to realize your creative vision.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Easy to Learn',
+    imgSrc: "/img/docusaurus_keytar.png",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      Pick from multiple levels of abstraction to work at the level you're most comfortable with. Leverage our extensive documentation and a helpful community to aid your learning.
+      </>
+    ),
+  },
+  {
+    title: 'Powered by Open Source',
+    imgSrc: "/img/GitHub-Mark-120px-plus.png",
+    description: (
+      <>
+      We combine open source software that inspires confidence into a framework anyone can use. You're in full control, but rest assured the open source community has your back.
+      </>
+    ),
+  },
+  {
+    title: 'Community-Driven by Design',
+    imgSrc: "/img/Discord-Logo-Color.png",
+    description: (
+      <>
+      Made by the community, for the community, from the ground up. The platform is managed by volunteers and as such will always be free - for both personal and commercial use.
+      </>
+    ),
+  },
+  {
+    title: 'Made to Last',
+    imgSrc: "/img/logo-testing.png",
+    description: (
+      <>
+        Crafted with a focus on accessibility, full customization and high quality. We strive to develop an easy-to use, robust, and powerful framework that will stand the test of time.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({title, description, imgSrc}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
+
+      <img class={styles.featureSvg} alt={title} src={imgSrc}></img>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
