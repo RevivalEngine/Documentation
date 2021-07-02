@@ -6,7 +6,7 @@ module.exports = {
   title: 'RevivalEngine Docs',
   tagline: 'We\'re building a free and open-source platform for creating web-based games.',
   url: 'https://revivalengine.github.io',
-  baseUrl: '/Documentation/',
+  baseUrl: '/',
   trailingSlash: true, // required for GitHub pages?
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -18,7 +18,7 @@ module.exports = {
       title: 'RevivalEngine',
       logo: {
         alt: 'RevivalEngine Logo',
-        src: 'img/logo.png',
+        src: '/img/logo.png',
       },
       items: [
         {

@@ -64,7 +64,7 @@ function Feature({title, description, imgSrc}) {
     <div className={clsx('col col--4')}>
       <div className="text--center">
 
-      <img class={styles.featureSvg} alt={title} src={imgSrc}></img>
+      <img class={styles.featureSvg} alt={title} src={require('@site/static' + imgSrc).default} src={imgSrc}></img>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
