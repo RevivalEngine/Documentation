@@ -33,6 +33,9 @@ module.exports = {
         },
       ],
     },
+    colorMode: {
+      disableSwitch: true,
+    },
     footer: {
       style: 'dark',
       links: [
