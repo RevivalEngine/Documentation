@@ -43,7 +43,7 @@ function HomepageHeader() {
 					</Link>
 
 					<div className="socials-container">
-						Something else?
+						Need something else?
 						<br />
 						<a class="contrasted-link" href="https://discord.gg/QMbSGen9uc" target="blank">
 							Let us know on Discord!
