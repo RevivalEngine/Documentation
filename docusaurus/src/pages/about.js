@@ -33,7 +33,7 @@ export default function About() {
 								<li>Cross-platform: Deploy your app on Windows, Mac OS, or Linux-based systems</li>
 							</ul>
 							<p className="hero__subtitle">
-								<a href="/docs/intro">For more details, check out the documentation!</a>
+								<a class="contrasted-link" href="/docs/intro">For more details, check out the documentation!</a>
 							</p>
 						</div>
 					</div>
