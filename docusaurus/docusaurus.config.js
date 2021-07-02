@@ -35,10 +35,10 @@ module.exports = {
           label: 'Discord',
           position: 'left'
         },
-        {to: '/tutorials', label: 'Tutorials', position: 'right'},
-        {to: '/recipes', label: 'Recipes', position: 'right'},
-        {to: '/concepts', label: 'Concepts', position: 'right'},
-        { to: '/references', label: 'References', position: 'right' },
+        {to: 'docs/tutorials', label: 'Tutorials', position: 'right'},
+        {to: 'docs/recipes', label: 'Recipes', position: 'right'},
+        {to: 'docs/concepts', label: 'Concepts', position: 'right'},
+        { to: 'docs/references', label: 'References', position: 'right' },
         {
           href: 'https://github.com/RevivalEngine/',
           label: 'GitHub',
