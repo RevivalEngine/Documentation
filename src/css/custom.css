@@ -35,15 +35,15 @@
 
 :root {
   --ifm-code-font-size: 95%;
-  --ifm-navbar-link-hover-color: #E0684B;
-  --ifm-link-hover-color: #E0684B;
-  --ifm-color-primary: #192d5c;
-  --ifm-color-primary-dark: #162953;
-  --ifm-color-primary-darker: #15264e;
-  --ifm-color-primary-darkest: #112040;
-  --ifm-color-primary-light: #1b3265;
-  --ifm-color-primary-lighter: #1d346a;
-  --ifm-color-primary-lightest: #203b78;
+  --ifm-navbar-link-hover-color: orange;
+  --ifm-link-hover-color: orange;
+  --ifm-color-primary: #6c84b0;
+  --ifm-color-primary-dark: #5a75a6;
+  --ifm-color-primary-darker: #546e9d;
+  --ifm-color-primary-darkest: #455b81;
+  --ifm-color-primary-light: #7e93ba;
+  --ifm-color-primary-lighter: #889bbf;
+  --ifm-color-primary-lightest: #a3b2ce;
 }
 
 body {
@@ -68,13 +68,13 @@ h1, h2, h3, h4 {
 
 .contrasted-link:hover, .table-of-contents__link:hover, .footer__link-item:hover {
   /* Similarly, it transitions to dark and becomes unreadable otherwise */
-  color: orange;
   color: #BB464B;
   color: #E0684B;
+  color: orange;
 }
 
 a:active, .table-of-contents__link:active, .table-of-contents__link--active, .navbar__link--active.footer__link-item:active {
-  color: #BB464B;
+  color: orange;
 }
 
 .socials-container {
