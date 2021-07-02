@@ -76,7 +76,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © 2019-${new Date().getFullYear()} RevivalEngine Team and Contributors: Anonymous Citizens of the Internet`,
     },
     prism: {
       theme: lightCodeTheme,
