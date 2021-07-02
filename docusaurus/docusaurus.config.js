@@ -25,11 +25,24 @@ module.exports = {
           position: 'left',
           label: 'About',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          to: '/blog',
+          position: 'left',
+          label: 'Blog',
+        },
+        {
+          href: 'https://discord.gg/QMbSGen9uc',
+          label: 'Discord',
+          position: 'left'
+        },
+        {to: '/tutorials', label: 'Tutorials', position: 'right'},
+        {to: '/recipes', label: 'Recipes', position: 'right'},
+        {to: '/concepts', label: 'Concepts', position: 'right'},
+        { to: '/references', label: 'References', position: 'right' },
+        {
+          href: 'https://github.com/RevivalEngine/',
           label: 'GitHub',
-          position: 'right',
+          position: 'left',
         },
       ],
     },
