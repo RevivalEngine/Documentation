@@ -42,7 +42,7 @@ function HomepageHeader() {
 						Look up technical details.
 					</Link>
 
-					<div className="EngineDocumentation_SocialsContainer">
+					<div className="socials-container">
 						Something else?
 						<br />
 						<a class="contrasted-link" href="https://discord.gg/QMbSGen9uc" target="blank">
