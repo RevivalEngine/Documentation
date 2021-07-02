@@ -6,12 +6,13 @@ module.exports = {
   title: 'RevivalEngine Docs',
   tagline: 'We\'re building a free and open-source platform for creating web-based games.',
   url: 'https://revivalengine.github.io',
-  baseUrl: '/',
+  baseUrl: '/Documentation/',
+  trailingSlash: true, // required for GitHub pages?
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo_JFA_icon.ico',
   organizationName: 'RevivalEngine', // Usually your GitHub org/user name.
-  projectName: 'RevivalEngine', // Usually your repo name.
+  projectName: 'Documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'RevivalEngine',
