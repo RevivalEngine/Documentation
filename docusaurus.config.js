@@ -10,7 +10,7 @@ module.exports = {
   trailingSlash: true, // required for GitHub pages?
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo_JFA_icon.ico',
+  favicon: 'img/logo1_of4_icon.ico',
   organizationName: 'RevivalEngine', // Usually your GitHub org/user name.
   projectName: 'Documentation', // Usually your repo name.
   themeConfig: {
@@ -18,7 +18,7 @@ module.exports = {
       title: 'RevivalEngine',
       logo: {
         alt: 'RevivalEngine Logo',
-        src: '/img/logo.png',
+        src: '/img/logo1_of4_icon.ico',
       },
       items: [
         {
